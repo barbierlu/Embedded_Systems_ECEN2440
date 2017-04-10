@@ -1,6 +1,6 @@
 //*****************************************************************************
 //
-// MSP432 main.c template - Empty main
+// MSP432 main.c
 // Samantha Williams, Luke Barbier, Alec Fremier
 //
 // TI MSP432 Interrupt configuration and LED usage
