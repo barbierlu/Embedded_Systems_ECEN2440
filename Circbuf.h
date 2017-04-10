@@ -41,4 +41,4 @@ BF_Err buffer_full(CircBuf * buf);
 void buffer_overwrite(CircBuf * buf);
 void clear_buffer(CircBuf * buf);
 
-#endif /* BUFFER_H_ */
+#endif /* BUFFER_H_ */ 
